@@ -70,3 +70,9 @@ Analyzed automation exposure across job roles and modeled its relationship with 
 ## Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/mukund-nigam/
+
+---
+
+## Debugging Philosophy
+
+First I blame the compiler. Then I blame the dataset. Then I find the missing comma.
