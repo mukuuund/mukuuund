@@ -51,7 +51,7 @@ Explainable AI • Information Retrieval • NLP • Machine Learning Systems
 | **scifact-retrieval-system** | BM25 · FAISS · Azure AI Search · Cross-Encoder reranking · Recall@10 optimization |
 | **Echo-Chambers-and-Polarization-Analysis** | Graph analytics · community detection · polarization measurement · intervention simulation |
 | **layoff-ai-automation-risk-eda-ml** | EDA · automation exposure modeling · job-risk analysis · ML classification |
-| **Manhwa-Tracker-Recommendation-System** | Sentence-BERT · semantic similarity · MySQL · content-based recommendation |
+| **ManhwaTBR** | Sentence-BERT · semantic similarity · MySQL · content-based recommendation |
 | **online-assistant-using-gemini** | Speech recognition · web automation · Gemini-based email generation |
 
 ---
